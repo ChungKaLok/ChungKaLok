@@ -7,5 +7,3 @@ Now equipped with some basic python, C++ knowledgeable and currently focusing on
 Always open to opportunites and challenges
 
 Hate to stay in my comfort zone
-
-//test
