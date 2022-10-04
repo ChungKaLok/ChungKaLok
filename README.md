@@ -1,4 +1,4 @@
-Year 2 Computer Engineering student at the University of Hong Kong
+Year 3 Computer Engineering student at the University of Hong Kong
 
 Started coding in my freshman year and still working hard to improve myself
 
